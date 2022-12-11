@@ -1,0 +1,3 @@
+- 👋 Hello, I'm Séb, web developer in the land of cicadas. 
+- 👀 I’m interested in front-end javascript using REACT or VueJS.
+- 🌱 I'm currently learning the basics of back-end
